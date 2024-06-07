@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://joidathe.github.io/sitemap.html
+Sitemap: https://joidathe.github.io/app/sitemap.html
+Sitemap: https://joidathe.github.io/assets/sitemap.html
+Sitemap: https://joidathe.github.io/includes/sitemap.html
+Sitemap: https://joidathe.github.io/src/sitemap.html
